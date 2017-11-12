@@ -1,0 +1,23 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "The app will then display the name and picture of the user with the best overall match.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJ-Code/FriendFinder.git"
+  },
+  "author": "jj-code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJ-Code/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/JJ-Code/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
